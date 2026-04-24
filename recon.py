@@ -131,10 +131,7 @@ def check_cve(ports):
             except Exception as e:
                 print(f"{Fore.YELLOW}[ERROR] CVE lookup failed for port {port}: {e}")
 
-#target = input("Enter IP address/domain name: ")
-#open_ports = scan_ports(target)
-#check_ip_reputation(target)
-#check_cve(open_ports)
+
 
 try:
     target = input("Enter IP address/domain name: ")
