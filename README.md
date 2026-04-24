@@ -52,4 +52,4 @@ Only use this on IPs and domains you have permission to scan(you can find plenty
 
 
 ---
-Built by Harsh Kumar | B.Tech CSE(Cybersecurity & IoT) | Heritage Institute of Technology
+Built by Harsh  | B.Tech CSE(Cybersecurity & IoT) | Heritage Institute of Technology
